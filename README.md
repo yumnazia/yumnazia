@@ -7,12 +7,12 @@
 - <b>Visual Analytics </b>
   - [An analysis on 2016-2017 weekly sales data using Tableau](https://github.com/yumnazia/TableauNationalWeeklySales)
   - [Geographical clustering for identification of potential submarkets](https://github.com/yumnazia/Geographical-Clustering-of-Potential-SubMarkets)
-  - [Measure the impact of covid on different clients](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Performance assessment dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Python</b>
   - [Composite measure based recommendation system](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Performance Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Performance assessment dashboard](https://github.com/yumnazia/Queue-Level-Performance-Management)
+
+  
 
 <h2>📺Certifications</h2>
 
