@@ -5,7 +5,7 @@
 <h3>👨‍💻 Data Analytics Projects:</h3>
 
 - <b>Visual Analytics </b>
-  - [An analysis on 2016-2017 weekly sales data](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [An analysis on 2016-2017 weekly sales data using Tableau](https://github.com/yumnazia/TableauNationalWeeklySales)
   - [Geographical clustering for identification of potential submarkets](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Measure the impact of covid on different clients](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Performance assessment dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
