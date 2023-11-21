@@ -21,16 +21,18 @@ A Python based comprehensive alert set up to assess recent models' performance o
 - Data Visualization with ggplot2 - [DataCamp](https://www.linkedin.com/posts/yumnazia_statement-of-accomplishment-activity-6557227933365346304-BWPp?utm_source=share&utm_medium=member_desktop)
 - Advanced SQL - Window functions - [LinkedIn](https://www.linkedin.com/learning/certificates/3de8c13eb2ca848ad772d7e0ec08d07026c71afe8a03b5327812757efdff1534?trk=backfilled_certificate&accountId=0&u=0&success=true&authUUID=rHYicXjTT4CtvtHHKP6RjQ%3D%3D)
 
- 🤳 Connect with me:
+<br>
+ 🤳 Connect with me: 
+<br> <a> </a>
 
-[<img align="left" alt="YumnaZia | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Email]
-[<img align="left" alt="YumnaZia | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Github]
-[<img align="left" alt="YumnaZia | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
+  [<img align="left" alt="YumnaZia | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
+  [<img align="left" alt="YumnaZia | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
+  [<img align="left" alt="YumnaZia | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[Email]: https://www.facebook.com/yumna.z.shaikh/
-[Github]: https://www.instagram.com/yumnaziaa/
+[Mail]: yumnazia@yahoo.com
+[Github]: https://github.com/yumnazia/yumnazia
 [linkedin]: https://www.linkedin.com/in/yumnazia/
-
+<br> <a> </a>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
