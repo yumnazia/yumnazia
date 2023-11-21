@@ -17,8 +17,9 @@ A Python based comprehensive alert set up to assess recent models' performance o
   
 📺Recent courses and certifications
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- Introduction to R - DataAnalyst Track - [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/870f700550de88f1c0effd0ad9931dd46cb58cac)
+- Data Visualization with ggplot2 - [DataCamp](https://www.linkedin.com/posts/yumnazia_statement-of-accomplishment-activity-6557227933365346304-BWPp?utm_source=share&utm_medium=member_desktop)
+- Advanced SQL - Window functions - [LinkedIn](https://www.linkedin.com/learning/certificates/3de8c13eb2ca848ad772d7e0ec08d07026c71afe8a03b5327812757efdff1534?trk=backfilled_certificate&accountId=0&u=0&success=true&authUUID=rHYicXjTT4CtvtHHKP6RjQ%3D%3D)
 
  🤳 Connect with me:
 
