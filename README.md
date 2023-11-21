@@ -32,7 +32,7 @@ A Python based comprehensive alert set up to assess recent models' performance o
 [Mail]: yumnazia@yahoo.com
 [Github]: https://github.com/yumnazia/yumnazia
 [linkedin]: https://www.linkedin.com/in/yumnazia/
-<br> <a> </a>
+<br> 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
