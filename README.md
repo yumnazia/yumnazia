@@ -1,4 +1,4 @@
-<h2>Hi, I'm Yumna! <br/>
+<h2>Hi, I'm Yumna! Welcome to my Github profile <br/>
   <br>
   <a></a> 
 
@@ -6,10 +6,13 @@
 
   - [Analysis on 2016-2017 weekly sales data using Tableau](https://github.com/yumnazia/TableauNationalWeeklySales): 
 An analysis on national weekly sales data in the US to see what brands are top performing, what is the gender-wise preference and per state statistics.
+
   - [Geographical clustering for identification of potential submarkets](https://github.com/yumnazia/Geographical-Clustering-of-Potential-SubMarkets):
-A collective effort that involved using Python and Power BI to make a custom tailored dashboard for Meritage Homes that allows them to identify potential submarkets for land acquisition in Maricopa and Pinal Counties of Arizona, USA. 
+A collective effort that involved using Python and Power BI to make a custom tailored dashboard for Meritage Homes that allows them to identify potential submarkets for land acquisition in Maricopa and Pinal Counties of Arizona, USA.
+
   - [Composite measure based recommendation system](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm): 
 Using the Amazon Meta-Data Set maintained on the SNAP site, generate a composite measure on the basis of which, generate Top 5 recommendations (ASIN, and associated Title, Sales Rank, TotalReviews, AvgRating, DegreeCentrality, ClusteringCoeff).
+
   - [Performance assessment dashboard](https://github.com/yumnazia/Queue-Level-Performance-Management): 
 A Python based comprehensive alert set up to assess recent models' performance on the queue. 
   <br>
@@ -23,6 +26,7 @@ A Python based comprehensive alert set up to assess recent models' performance o
 
 <br>
  🤳 Connect with me: 
+ 
 <br> <a> </a>
 
   [<img align="left" alt="YumnaZia | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
