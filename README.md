@@ -5,7 +5,7 @@
 👨‍💻 Recent Projects:
 
   - [Analysis on 2021 dataset for bubble tea places around the Bay area](https://github.com/yumnazia/BayAreaBubbleTeaAnalysis): 
-A Tableau based Report made using a Kaggle data-set for the bubble tea places around bay area
+A Tableau based Report made using a Kaggle data-set for the bubble tea places around bay area.
   
   - [Analysis on 2016-2017 weekly sales data using Tableau](https://github.com/yumnazia/TableauNationalWeeklySales): 
 An analysis on national weekly sales data in the US to see what brands are top performing, what is the gender-wise preference and per state statistics.
