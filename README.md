@@ -25,6 +25,8 @@ A Python based comprehensive alert set up to assess recent models' performance o
   
 📺Recent courses and certifications
 
+- Power BI Data Modeling with DAX - [LinkedIn](https://www.linkedin.com/learning/certificates/5ce7f8ff727c460baee150d127cffa9b3a3dd58a46a4928285081cef5005048f?accountId=0&u=0&success=true&authUUID=8LYnBEYqRxKDICK4iNRVQw%3D%3D)
+- Tableau for Data Scientists - [LinkedIn](https://www.linkedin.com/learning/certificates/ee358fc3da2093756bcd77a431bacade4abc0f418815a6b4468ba2c7cc5a505b?accountId=0&u=0&success=true&authUUID=V7NzzGlhREiczO7wwzdX6Q%3D%3D)
 - Introduction to R - DataAnalyst Track - [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/870f700550de88f1c0effd0ad9931dd46cb58cac)
 - Data Visualization with ggplot2 - [DataCamp](https://www.linkedin.com/posts/yumnazia_statement-of-accomplishment-activity-6557227933365346304-BWPp?utm_source=share&utm_medium=member_desktop)
 - Advanced SQL - Window functions - [LinkedIn](https://www.linkedin.com/learning/certificates/3de8c13eb2ca848ad772d7e0ec08d07026c71afe8a03b5327812757efdff1534?trk=backfilled_certificate&accountId=0&u=0&success=true&authUUID=rHYicXjTT4CtvtHHKP6RjQ%3D%3D)
