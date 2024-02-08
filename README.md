@@ -4,6 +4,9 @@
 
 👨‍💻 Recent Projects:
 
+  - [Analysis on Lyfts data to assess drivers lifetime value, churn and projected life](https://github.com/yumnazia/Lyft-Driver-Lifetime-Value-Analysis):
+  Python based analysis I worked on as a part of lyft's recruitment process.
+
   - [Analysis on 2021 dataset for bubble tea places around the Bay area](https://github.com/yumnazia/BayAreaBubbleTeaAnalysis): 
 A Tableau based Report made using a Kaggle data-set for the bubble tea places around bay area.
   
