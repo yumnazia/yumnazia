@@ -4,6 +4,9 @@
 
 👨‍💻 Recent Projects:
 
+  - [Predicting Fuel Economy using different Regression Techniques](https://github.com/yumnazia/Predicting-Fuel-Economy):
+    A python based predictive analysis where I used Linear and Ridge Regression techniques to predict MPG. 
+
   - [Analysis on Lyfts data to assess drivers lifetime value, churn and projected life](https://github.com/yumnazia/Lyft-Driver-Lifetime-Value-Analysis):
   Python based analysis I worked on as a part of lyft's recruitment process.
 
@@ -28,6 +31,8 @@ A Python based comprehensive alert set up to assess recent models' performance o
   
 📺Recent courses and certifications
 
+- Python for Data Science - Data Prep and EDA - [Maven Analytics](https://certificates.mavenanalytics.io/91920e92-6012-46b3-ab83-e93993c1261c#gs.cp0pb9).
+- Regression Techniques - [Maven Analytics](https://certificates.mavenanalytics.io/c0745024-028a-4df6-9b24-7fa9b58857b8)
 - Power BI Data Modeling with DAX - [LinkedIn](https://www.linkedin.com/learning/certificates/5ce7f8ff727c460baee150d127cffa9b3a3dd58a46a4928285081cef5005048f?accountId=0&u=0&success=true&authUUID=8LYnBEYqRxKDICK4iNRVQw%3D%3D)
 - Tableau for Data Scientists - [LinkedIn](https://www.linkedin.com/learning/certificates/ee358fc3da2093756bcd77a431bacade4abc0f418815a6b4468ba2c7cc5a505b?accountId=0&u=0&success=true&authUUID=V7NzzGlhREiczO7wwzdX6Q%3D%3D)
 - Introduction to R - DataAnalyst Track - [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/870f700550de88f1c0effd0ad9931dd46cb58cac)
